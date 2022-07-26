@@ -1,0 +1,5 @@
+node
+tab tab
+crypto. tab tab
+crypto.randomUUID()
+result => '3d3c7d94-e031-4d4f-870a-ee20e442a4a4'
