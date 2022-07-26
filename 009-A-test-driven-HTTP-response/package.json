@@ -1,0 +1,15 @@
+{
+  "name": "009-a-test-driven-http-response",
+  "version": "1.0.0",
+  "description": "Our integration test in app.test.js expects a JSON response.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.3",
+    "supertest": "^6.2.4"
+  }
+}
